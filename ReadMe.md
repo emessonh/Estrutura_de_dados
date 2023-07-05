@@ -1,9 +1,9 @@
 Exercícios TheHuxley:
 
-Maior Sequência
-Ordenar Lista Encadeada em ordem crescente
-Inverter uma Lista Encadeada em uma só passada
-Frequência de um texto em uma Lista Encadeada
+Maior Sequência <br>
+Ordenar Lista Encadeada em ordem crescente <br>
+Inverter uma Lista Encadeada em uma só passada <br>
+Frequência de um texto em uma Lista Encadeada <br>
 
 Links:
 https://www.geeksforgeeks.org/data-structures/linked-list/
